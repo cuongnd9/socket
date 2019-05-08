@@ -1,0 +1,8 @@
+{
+  "name": "socket-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cuongw/socket-starter.git",
+  "author": "Cuong Duy Nguyen <ndc07.it@gmail.com>",
+  "license": "MIT"
+}
