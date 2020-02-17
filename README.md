@@ -1,4 +1,4 @@
-# Socket.IO Starter
+# Socket.IO
 
 🚀⏳ Getting Started with Socket.IO
 
